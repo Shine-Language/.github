@@ -18,10 +18,8 @@ Status: v0.1.0 (Published) - compiles functions with parameters, calls, and stri
 
 ---
 
+## Roadmap & Info
+
 See more info in our main [README](https://github.com/Shine-Language/Shine-Compiler/blob/main/README.md).
-
----
-
-## Roadmap
 
 See [ROADMAP.md](https://github.com/Shine-Language/Shine-Compiler/blob/main/ROADMAP.md) for what's done and what's next.
