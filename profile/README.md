@@ -83,4 +83,4 @@ examples/        sample .shine programs
 
 ## Roadmap
 
-See [ROADMAP.md](ROADMAP.md) for what's done and what's next.
+See [ROADMAP.md](https://github.com/Shine-Language/Shine-Compiler/blob/main/ROADMAP.md) for what's done and what's next.
